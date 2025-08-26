@@ -23,3 +23,19 @@ ele serve para compartilhar as mesmas depencias e ate o CI saber rodar.
 
 ---
 vamos instalar o react, o react é um pacote completo da linguagem. ou seja é o core, diferente da onde ele vai ser renderizado... ele pode renderiza para tv o native para iOS e Android, e para coisa 3d tem varios submodulos para renderizar... para realizar o html os nós do dom é o react-dom.
+---
+
+Protocolos web: http, ftp, smtp, tcp, udp.
+Protocolo, definem um acordo, combinado.. padrão que seguem regras especificas.
+como um conversa inicia e como ela devolve.
+
+o tcp tem error recovery para caso o pacote nao chegue na outra ponta, ele garante que os dois lados recebem.
+udp: pedaco de informacao auto suficiente, ele nao depende das partes envovidas... igual na call, quando trava um fala nao entendi pode fala de novo, e a pessoa fala isso é um exemplo de udp
+
+
+---
+para criar uma pagina usando o next.js, vc cria de fato os arquivos no seu projeto.
+file-base routing, roteamento baseado em arquivos... seguindo o padrao do php e o apache recebia o /produtos e devolvia como pag.
+o next tem o vercel, ele usa dois lugares para colocar no ar.
+o nome do arquivo vira a rota.
+o next ele entrega a conexao exterior e o react o concreto.
