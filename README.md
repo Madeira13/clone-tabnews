@@ -39,3 +39,4 @@ file-base routing, roteamento baseado em arquivos... seguindo o padrao do php e 
 o next tem o vercel, ele usa dois lugares para colocar no ar.
 o nome do arquivo vira a rota.
 o next ele entrega a conexao exterior e o react o concreto.
+ 
